@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual-Reality-Tour-Unity-3D-World-Tour-master", "Assembly-CSharp.csproj", "{160EB82B-F7BB-A967-30CB-F4687CF2CC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual-Reality-Tour-Unity-3D-World-Tour-master", "Assembly-CSharp-Editor.csproj", "{C88F5DCE-EE3E-AC0E-D17C-7EA2F9F21EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160EB82B-F7BB-A967-30CB-F4687CF2CC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160EB82B-F7BB-A967-30CB-F4687CF2CC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160EB82B-F7BB-A967-30CB-F4687CF2CC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160EB82B-F7BB-A967-30CB-F4687CF2CC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F5DCE-EE3E-AC0E-D17C-7EA2F9F21EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F5DCE-EE3E-AC0E-D17C-7EA2F9F21EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F5DCE-EE3E-AC0E-D17C-7EA2F9F21EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F5DCE-EE3E-AC0E-D17C-7EA2F9F21EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
